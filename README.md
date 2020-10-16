@@ -15,6 +15,8 @@
 
 ## Screenshots
 <img src="" alt="Project Screenshots">
+<img src="" alt="Project Screenshots">
+<img src="" alt="Project Screenshots">
 
 ## Instructions to run
 ```
@@ -25,6 +27,7 @@ $ python3 manage.py runserver
 ```
 
 ## Contributors
+- <a href="https://github.com/<Contributor>">Contributor Name</a>
 - <a href="https://github.com/<Contributor>">Contributor Name</a>
 - <a href="https://github.com/<Contributor>">Contributor Name</a>
 
