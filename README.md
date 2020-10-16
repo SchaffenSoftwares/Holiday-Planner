@@ -14,7 +14,7 @@
 - Insert list of features here
 
 ## Screenshots
-<img src="https://thumbs.dreamstime.com/b/example-stamp-grunge-vintage-isolated-white-background-sign-153942456.jpg" alt="Project Screenshots">
+<img src="" alt="Project Screenshots">
 
 ## Instructions to run
 ```
