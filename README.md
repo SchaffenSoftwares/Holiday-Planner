@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.schaffensofts.com" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo-3.png" title="Schaffen Softwares" alt="Schaffen Softwares"></a>
+<p align="center"><a href="https://www.schaffensofts.com" target="_blank"><img src="https://schaffensofts.com/img/logo.png" title="Schaffen Softwares" alt="Schaffen Softwares"></a>
 </p>
 
 # Holiday Planner
@@ -18,7 +18,7 @@
 
 ## Instructions to run
 ```
-$ git clone https://github.com/CodeChefVIT/<Project>
+$ git clone https://github.com/SchaffenSoftwares/<Project>
 $ cd <Project>
 $ pip3 install -r requirements.txt
 $ python3 manage.py runserver
