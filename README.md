@@ -1,10 +1,12 @@
 <p align="center"><a href="https://www.schaffensofts.com" target="_blank"><img src="https://schaffensofts.com/img/logo.png" title="Schaffen Softwares" alt="Schaffen Softwares"></a>
 </p>
 
-# Holiday Planner
+# Travellour
 
 > <Subtitle>
-> Include project description here.
+> Travellour is site where you can plan a trip within your budget.
+Once you enter your budget the server will show you all the places where you can visit within your pocket limit.
+this project is made using : Html, CSS, JS, Jqueuy and bootstrap
 
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
@@ -27,9 +29,9 @@ $ python3 manage.py runserver
 ```
 
 ## Contributors
-- <a href="https://github.com/<Contributor>">Contributor Name</a>
-- <a href="https://github.com/<Contributor>">Contributor Name</a>
-- <a href="https://github.com/<Contributor>">Contributor Name</a>
+- <a href="https://github.com/<Contributor>">Geetika Chawla</a>
+- <a href="https://github.com/<Contributor>">Divyansh</a>
+- <a href="https://github.com/<Contributor>">Ayushi Keshari</a>
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
